@@ -8,4 +8,6 @@ More info at: https://en.wikipedia.org/wiki/Tower_of_Hanoi
 ![](https://github.com/VaibhavSaini19/Tower-of-Hanoi-p5/blob/master/play.gif)
 
 ## Usage
-Clone/download, run ```index.html``` and change the value of ```TOTAL_DISKS``` as per your desire.
+Use the p5js Web editor: https://editor.p5js.org/sainivaibhav19/sketches/rBRv5_RFH
+
+and change the value of TOTAL_DISKS in ```sketch.js``` as per your desire
